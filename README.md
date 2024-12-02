@@ -1,7 +1,14 @@
+Authors/Collaborators:
+- Araño, Christian
+- Manaois, Raidon
+
+
 Sample Output:
+
 ![image](https://github.com/user-attachments/assets/85f27460-aa9c-477d-9320-c8cb618b4f14)
 
 Performance Analysis:
+
 ![image](https://github.com/user-attachments/assets/754de03b-fc07-4a52-b757-8f9402da9c51)
 
 
